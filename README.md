@@ -1,11 +1,11 @@
 {
-"newVersion": "1.0.3",
+"newVersion": "1.0.4",
 "apkUrl": "https://play.google.com/store/apps/details?id=com.trinetvpn.prov2",
 "versionNotes":"
 • Pag wlang lumabas na update sa playstore please clear data playstore app din check update ulit
 • Optimize UI
 • Optimize Connection
 • Fixed some known errors
-• Fixed for android 10-11
+• Fixed for android 5-6
 "
 }
